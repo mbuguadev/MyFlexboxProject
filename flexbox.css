@@ -1,0 +1,22 @@
+.container{
+    background-color: dodgerblue;
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: baseline; */
+    height: 100px;
+    /* align-content: space-between; */
+    
+
+}
+
+
+
+
+.container > div{
+    background-color: whitesmoke;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    font-size: 50px;
+    
+}
